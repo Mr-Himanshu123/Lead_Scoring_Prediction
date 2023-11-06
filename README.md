@@ -6,6 +6,7 @@ The company markets its courses on several websites and search engines like Goog
  
 Now, although X Education gets a lot of leads, its lead conversion rate is very poor. For example, if, say, they acquire 100 leads in a day, only about 30 of them are converted. To make this process more efficient, the company wishes to identify the most potential leads, also known as ‘Hot Leads’. If they successfully identify this set of leads, the lead conversion rate should go up as the sales team will now be focusing more on communicating with the potential leads rather than making calls to everyone. A typical lead conversion process can be represented using the following funnel:
 
-https://static.wixstatic.com/media/3bcbe6_55674e5c16df43ae93e1843776f6eabc~mv2.jpg/v1/fill/w_394,h_556,al_c,lg_1,q_80,enc_auto/3bcbe6_55674e5c16df43ae93e1843776f6eabc~mv2.jpg
+![3bcbe6_55674e5c16df43ae93e1843776f6eabcmv2_1_1](https://github.com/Mr-Himanshu123/Lead_Scoring_Prediction/assets/113466788/196a25e5-4c64-48ff-9b38-4bcd6721573c)
+
 
 As we can see, there are a lot of leads generated in the initial stage (top) but only a few of them come out as paying customers from the bottom. In the middle stage, you need to nurture the potential leads well (i.e. educating the leads about the product, constantly communicating etc. ) in order to get a higher lead conversion.
